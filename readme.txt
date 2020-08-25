@@ -1,1 +1,1 @@
-こんにちは
+oneStroke2D.pdeは2Dの一筆書きゲーム、oneStroke3D.pdeは3Dの一筆書きゲームです。
